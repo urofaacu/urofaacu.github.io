@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://urofaacu.github.io/EMO/sitemap_index.txt
+Sitemap: https://urofaacu.github.io/NlB/sitemap_index.txt
+Sitemap: https://urofaacu.github.io/ivV/sitemap_index.txt
+Sitemap: https://urofaacu.github.io/kwU/sitemap_index.txt
